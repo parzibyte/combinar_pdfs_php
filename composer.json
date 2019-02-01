@@ -1,0 +1,15 @@
+{
+    "name": "parzibyte/combinar_pdfs",
+    "description": "Un ejemplo de c\u0000mo unir m\u0000ltiples documentos PDF con PHP",
+    "type": "project",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Luis Cabrera Benito",
+            "email": "contacto@parzibyte.me"
+        }
+    ],
+    "require": {
+        "iio/libmergepdf": "4.0"
+    }
+}
